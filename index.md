@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-
 <!-- start sw-rss-feed code --> 
 <script type="text/javascript"> 
 <!-- 
@@ -16,7 +15,7 @@ rssfeed_target="_blank";
 rssfeed_font_size="12"; 
 rssfeed_font_face=""; 
 rssfeed_border="on"; 
-rssfeed_css_url="https://feed.surfing-waves.com/css/style4.css"; 
+rssfeed_css_url=""; 
 rssfeed_title="off"; 
 rssfeed_title_name=""; 
 rssfeed_title_bgcolor="#3366ff"; 
@@ -33,14 +32,14 @@ rssfeed_item_bgcolor="#fff";
 rssfeed_item_bgimage=""; 
 rssfeed_item_border_bottom="on"; 
 rssfeed_item_source_icon="off"; 
-rssfeed_item_date="on"; 
+rssfeed_item_date="off"; 
 rssfeed_item_description="on"; 
-rssfeed_item_description_length="280"; 
+rssfeed_item_description_length="220"; 
 rssfeed_item_description_color="#666"; 
 rssfeed_item_description_link_color="#333"; 
 rssfeed_item_description_tag="off"; 
 rssfeed_no_items="0"; 
-rssfeed_cache = "cb0eb9ecb19ecd226860a01a55303cf0"; 
+rssfeed_cache = "8a56bc044a0994b53ee9c8a20c92296a"; 
 //--> 
 </script> 
 <script type="text/javascript" src="//feed.surfing-waves.com/js/rss-feed.js"></script> 
@@ -49,3 +48,4 @@ rssfeed_cache = "cb0eb9ecb19ecd226860a01a55303cf0";
 <!-- end sw-rss-feed code -->
 </body>
 </html>
+
