@@ -2,7 +2,50 @@
 <html>
 <body>
 
-<div id="widgetmain" style="text-align:left;overflow-y:auto;overflow-x:hidden;width:500px;background-color:#transparent; border:1px solid #333333;"><div id="rsswidget" style="height:2000px;"><iframe src="http://us1.rssfeedwidget.com/getrss.php?time=1590152502941&amp;x=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2Frss%2Fsearch%2F16s3QTOAnoOJPXVMpGwnLzkhyFCBOyX54l40eK8dPvQ-TMPU7Q%2F%3Flimit%3D50%26utm_campaign%3Dpub&amp;w=500&amp;h=2000&amp;bc=333333&amp;bw=1&amp;bgc=transparent&amp;m=50&amp;it=false&amp;t=(default)&amp;tc=333333&amp;ts=15&amp;tb=transparent&amp;il=true&amp;lc=0000BD&amp;ls=14&amp;lb=true&amp;id=true&amp;dc=333333&amp;ds=10&amp;idt=false&amp;dtc=284F2D&amp;dts=12" border="0" hspace="0" vspace="0" frameborder="no" marginwidth="0" marginheight="0" style="border:0; padding:0; margin:0; width:500px; height:2000px;" id="rssOutput">Reading RSS Feed ...</iframe></div><div style="text-align:right;margin-bottom:0;border-top:1px solid #333333;" id="widgetbottom"><span style="font-size:70%"><a href="http://www.rssfeedwidget.com">rss feed widget</a>&nbsp;</span><br></div></div>
-
+<!-- start sw-rss-feed code --> 
+<script type="text/javascript"> 
+<!-- 
+rssfeed_url = new Array(); 
+rssfeed_url[0]="https://pubmed.ncbi.nlm.nih.gov/rss/search/1roWqUHnCMOy0K_lCUKfBUzlqsoERjMpX9D2KdQzfOKYvfMUKH/?limit=100&utm_campaign=pubmed-2&fc=20200522092931";  
+rssfeed_frame_width="800"; 
+rssfeed_frame_height="800"; 
+rssfeed_scroll="on"; 
+rssfeed_scroll_step="6"; 
+rssfeed_scroll_bar="off"; 
+rssfeed_target="_blank"; 
+rssfeed_font_size="12"; 
+rssfeed_font_face=""; 
+rssfeed_border="on"; 
+rssfeed_css_url="https://feed.surfing-waves.com/css/style4.css"; 
+rssfeed_title="off"; 
+rssfeed_title_name=""; 
+rssfeed_title_bgcolor="#3366ff"; 
+rssfeed_title_color="#fff"; 
+rssfeed_title_bgimage=""; 
+rssfeed_footer="off"; 
+rssfeed_footer_name="rss feed"; 
+rssfeed_footer_bgcolor="#fff"; 
+rssfeed_footer_color="#333"; 
+rssfeed_footer_bgimage=""; 
+rssfeed_item_title_length="200"; 
+rssfeed_item_title_color="#666"; 
+rssfeed_item_bgcolor="#fff"; 
+rssfeed_item_bgimage=""; 
+rssfeed_item_border_bottom="on"; 
+rssfeed_item_source_icon="off"; 
+rssfeed_item_date="on"; 
+rssfeed_item_description="on"; 
+rssfeed_item_description_length="280"; 
+rssfeed_item_description_color="#666"; 
+rssfeed_item_description_link_color="#333"; 
+rssfeed_item_description_tag="off"; 
+rssfeed_no_items="0"; 
+rssfeed_cache = "cb0eb9ecb19ecd226860a01a55303cf0"; 
+//--> 
+</script> 
+<script type="text/javascript" src="//feed.surfing-waves.com/js/rss-feed.js"></script> 
+<!-- The link below helps keep this service FREE, and helps other people find the SW widget. Please be cool and keep it! Thanks. --> 
+<div style="color:#ccc;font-size:10px; text-align:right; width:800px;">powered by <a href="https://surfing-waves.com" rel="noopener" target="_blank" style="color:#ccc;">Surfing Waves</a></div> 
+<!-- end sw-rss-feed code -->
 </body>
 </html>
