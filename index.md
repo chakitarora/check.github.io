@@ -15,7 +15,7 @@ rssfeed_target="_blank";
 rssfeed_font_size="12"; 
 rssfeed_font_face=""; 
 rssfeed_border="on"; 
-rssfeed_css_url="https://feed.surfing-waves.com/css/style4.css"; 
+rssfeed_css_url=""; 
 rssfeed_title="off"; 
 rssfeed_title_name=""; 
 rssfeed_title_bgcolor="#3366ff"; 
@@ -39,7 +39,7 @@ rssfeed_item_description_color="#666";
 rssfeed_item_description_link_color="#333"; 
 rssfeed_item_description_tag="off"; 
 rssfeed_no_items="0"; 
-rssfeed_cache = "8a56bc044a0994b53ee9c8a20c92296a"; 
+rssfeed_cache = "4f266822e1ed4445370998cf16135160"; 
 //--> 
 </script> 
 <script type="text/javascript" src="//feed.surfing-waves.com/js/rss-feed.js"></script> 
