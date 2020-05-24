@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <body>
 <!-- start sw-rss-feed code --> 
